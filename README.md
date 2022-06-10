@@ -1,9 +1,23 @@
 # Kickstart Workshop
 
-## TODO: Add picture for this tutorial
-https://sparkbyexamples.com/python/install-anaconda-jupyter-notebook/
+## GUI tutorial
+![](/assets/1.png)
 
-# Install Anaconda and Jupyter Notebook
+![](/assets/2.png)
+
+![](/assets/3.png)
+
+![](/assets/4.png)
+
+![](/assets/5.png)
+
+![](/assets/6.png)
+
+
+
+[Reference](https://sparkbyexamples.com/python/install-anaconda-jupyter-notebook/)
+
+# Install Anaconda and Jupyter Notebook using the Terminal
 
 1.   Download Anaconda    
         ```bash
