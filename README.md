@@ -1,5 +1,8 @@
 # Kickstart Workshop
 
+## TODO: Add picture for this tutorial
+https://sparkbyexamples.com/python/install-anaconda-jupyter-notebook/
+
 # Install Anaconda and Jupyter Notebook
 
 1.   Download Anaconda    
