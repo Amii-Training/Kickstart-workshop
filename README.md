@@ -1,6 +1,47 @@
 # Kickstart Workshop
 
-# Install Anaconda and Jupyter Notebook
+## Installation using GUI
+
+### 1. Download Anaconda
+![](/assets/1.png)
+
+### 2. Accept the license by choosing `continue`
+![](/assets/2.png)
+
+### 3. Accept the license agreement
+![](/assets/3.png)
+
+### 4. Install anaconda
+![](/assets/4.png)
+
+![](/assets/5.png)
+
+### 5. Complete installation
+![](/assets/6.png)
+
+
+## Using Anaconda navigator
+
+### 1. Launch jupyter notebook from the navigator
+![](/assets/7.png)
+
+### 2. Create conda environment
+![](/assets/8.png)
+
+
+### 3. Open terminal to install packages
+  ``` bash
+    conda activate ml_kickstart
+    conda install jupyter --yes
+    pip install pandas numpy matplotlib 
+    pip install scikit-learn opencv-python keras
+```
+
+[Reference](https://sparkbyexamples.com/python/install-anaconda-jupyter-notebook/)
+
+
+
+# Alternate: Install Anaconda and Jupyter Notebook using the Terminal
 
 1.   Download Anaconda    
         ```bash
@@ -54,7 +95,8 @@
     ``` bash
     conda activate ml_kickstart
     conda install jupyter --yes
-    pip install pandas numpy matplotlib scikit-learn
+    pip install pandas numpy matplotlib 
+    pip install scikit-learn opencv-python keras
     ```
 
 14. Running jupyter notebooks    
