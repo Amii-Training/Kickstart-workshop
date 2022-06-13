@@ -33,7 +33,7 @@
   ``` bash
     conda activate ml_kickstart
     conda install jupyter --yes
-    pip install pandas numpy matplotlib 
+    pip install pandas numpy matplotlib seaborn
     pip install scikit-learn opencv-python keras
 ```
 
@@ -95,7 +95,7 @@
     ``` bash
     conda activate ml_kickstart
     conda install jupyter --yes
-    pip install pandas numpy matplotlib 
+    pip install pandas numpy matplotlib seaborn
     pip install scikit-learn opencv-python keras
     ```
 
