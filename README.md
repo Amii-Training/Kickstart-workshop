@@ -1,8 +1,5 @@
 # Kickstart Workshop
 
-<<<<<<< Updated upstream
-# Install Anaconda and Jupyter Notebook
-=======
 ## Installation using GUI
 
 ### 1. Download Anaconda
@@ -45,7 +42,6 @@
 
 
 # Alternate: Install Anaconda and Jupyter Notebook using the Terminal
->>>>>>> Stashed changes
 
 1.   Download Anaconda    
         ```bash
